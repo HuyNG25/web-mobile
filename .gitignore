@@ -1,0 +1,11 @@
+# Build artifacts
+.last_build_id
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
